@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/hoangthien/CNPMCS.png?label=ready&title=Ready)](https://waffle.io/hoangthien/CNPMCS)
 # CNPMCS
 Bài tập, Sermina, Báo cáo, Đồ án môn Nhập môn công nghệ phần mềm chuyên sâu
 
