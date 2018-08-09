@@ -7,7 +7,7 @@ Học sáng thứ 3 Phòng C114 Tiết 1,2,3
 
 Giảng viên: ThS. Phan Trung Hiếu 
 
-Nhóm trưởng: Hoàng Xuân Thiên 01659671572 hoangthien.uit@gmail.com
+Nhóm trưởng: Hoàng Xuân Thiên
 
 Thành viên: 6
 
