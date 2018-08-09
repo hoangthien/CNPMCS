@@ -21,4 +21,4 @@ Thành viên: 6
 
 5. 12520377 Nguyễn Văn Tân 01633934805 nguyentanuit@gmail.com
 
-6. 12520411 Hoàng Xuân Thiên 01659671572 hoangthien.uit@gmail.com
+6. 12520411 Hoàng Xuân Thiên
